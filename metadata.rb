@@ -1,6 +1,6 @@
 name             'hubrick-devops-challenge'
-maintainer       'YOUR_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Ingo Dyck'
+maintainer_email 'id@hubrick.com'
 license          'All rights reserved'
 description      'Installs/Configures hubrick-devops-challenge'
 long_description 'Installs/Configures hubrick-devops-challenge'

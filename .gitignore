@@ -15,4 +15,7 @@ Berksfile.lock
 Gemfile.lock
 bin/*
 .bundle/*
+vendor/
 
+# test-kitchen
+.kitchen/
