@@ -1,0 +1,7 @@
+name             'hubrick-devops-challenge'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures hubrick-devops-challenge'
+long_description 'Installs/Configures hubrick-devops-challenge'
+version          '0.1.0'
