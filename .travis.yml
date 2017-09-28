@@ -1,0 +1,11 @@
+language: ruby
+
+branches:
+  only:
+    - master
+
+services: docker
+
+script:
+  - bundle exec foodcritic . --tags ~FC078
+  - KITCHEN_LOCAL_YAML=.kitchen.dokken.yml kitchen verify default

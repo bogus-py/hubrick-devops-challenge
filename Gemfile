@@ -6,6 +6,7 @@ gem 'berkshelf'
 group :integration do
   gem 'test-kitchen'
   gem 'kitchen-vagrant'
+  gem 'kitchen-dokken'
   gem 'kitchen-ec2'
   gem 'kitchen-sync'
 end
